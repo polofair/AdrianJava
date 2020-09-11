@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\gradle",
+    "\\gradle\\wrapper",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\readinglist",
+    "\\src\\main\\resources",
+    "\\src\\main\\resources\\static",
+    "\\src\\main\\resources\\templates",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\readinglist"
+  ],
+  "SelectedNode": "\\src\\test\\java\\readinglist\\ReadinglistApplicationTests.java",
+  "PreviewInSolutionExplorer": false
+}
